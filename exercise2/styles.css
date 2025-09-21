@@ -19,6 +19,8 @@ body {
     border-radius: 10px;
     box-shadow: 0 2px 8px rgba(0,0,0,0.07);
     padding: 20px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 table {
@@ -55,6 +57,7 @@ tbody tr:nth-child(even) {
 tbody tr:nth-child(odd) {
     background-color: #fff;
 }
+
 
 
 
